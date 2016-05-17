@@ -1,0 +1,6 @@
+c:\users\ti.karapetyan\documents\visual studio 2015\Projects\Thread\Thread\bin\Debug\Thread.exe.config
+c:\users\ti.karapetyan\documents\visual studio 2015\Projects\Thread\Thread\bin\Debug\Thread.exe
+c:\users\ti.karapetyan\documents\visual studio 2015\Projects\Thread\Thread\bin\Debug\Thread.pdb
+c:\users\ti.karapetyan\documents\visual studio 2015\Projects\Thread\Thread\obj\Debug\Thread.csprojResolveAssemblyReference.cache
+c:\users\ti.karapetyan\documents\visual studio 2015\Projects\Thread\Thread\obj\Debug\Thread.exe
+c:\users\ti.karapetyan\documents\visual studio 2015\Projects\Thread\Thread\obj\Debug\Thread.pdb
